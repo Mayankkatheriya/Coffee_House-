@@ -94,7 +94,7 @@ ul li{
     list-style-type: decimal;
     line-height: 30px;
     color: rgb(165,42,42);
-    padding-inline-start: 6px;
+    padding-inline-start: 5px;
 }
 .para_last{
     color: rgb(165,42,42);
